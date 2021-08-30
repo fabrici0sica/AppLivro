@@ -49,3 +49,8 @@ t1 = BashOperator(
     bash_command=git_sync_bash,
     dag=dag
 )
+
+t2 = BashOperator(
+    task_id = 'extract'
+
+)
