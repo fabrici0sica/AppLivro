@@ -2,3 +2,6 @@
 /logs/dag_processor_manager
 dags/__pycache__
 .config
+/logs/
+dags/dicionario.txt
+dags/reverso.txt
